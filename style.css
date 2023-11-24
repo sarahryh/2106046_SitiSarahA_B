@@ -1,0 +1,44 @@
+* { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px; 
+   } 
+    h1{ 
+    text-align: center; 
+    font-weight: 500; 
+    } 
+    .form-input{ 
+    display: block; 
+    background: #f2f2f2; 
+    border: none; 
+    padding: 15px; 
+    border-radius: 10px; 
+    margin: 30px auto; 
+    width: 400px; 
+    
+    } 
+    .kotak{ 
+    text-align: center; 
+    width: 600px; 
+    border: 1px solid white; 
+    background: #9CAF88; 
+    margin: 30px auto; 
+    padding: 30px 20px; 
+    border-radius: 20px; 
+    } 
+    #btn-kirim{ 
+    background: beige; 
+    color: black; 
+    font-size: 20px; 
+    border: none; 
+    padding: 20px 20px; 
+    border-radius: 20px; 
+    width: 50%; 
+    }
+    .result{ 
+    background: beige; 
+    border: none; 
+    padding: 20px; 
+    border-radius: 20px; 
+    margin: 30px auto; 
+    width: 400px; 
+    } 
